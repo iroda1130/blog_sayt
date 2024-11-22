@@ -33,8 +33,3 @@ blog_sayt/
 │   ├── wsgi.py         # WSGI server sozlamalari
 │   ├── asgi.py         # ASGI server sozlamalari
 └── manage.py           # Django boshqaruv fayli
-## Loyhani ishlatish
-```pip install django
-pip install django
-python manage.py migrate
-python manage.py runserver
