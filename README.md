@@ -32,4 +32,4 @@ blog_sayt/
 │   ├── urls.py         # Loyihaning URL marshrutlari
 │   ├── wsgi.py         # WSGI server sozlamalari
 │   ├── asgi.py         # ASGI server sozlamalari
-└── manage.py           # Django boshqaruv fayli
+└── manage.py           # Django boshqaruv fayli```
